@@ -1,0 +1,47 @@
+commit fd61d5311bfc718c902443e4d5db762eec54fc28
+Author: Oliver CAFFERTY <ocaffe@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 18:24:18 2020 -0400
+
+    DONE!
+
+commit efae5c146857b26700568737f884028f07f4297b
+Author: Oliver CAFFERTY <ocaffe@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 12:50:12 2020 -0400
+
+    Fully functionalgit add makefile poly.c poly.h utils.h utils.c polyapp.c! Need to comment and make pretty!
+
+commit ac56216b3f669ef2148e3086dddb53bb39bb6ef3
+Author: Oliver CAFFERTY <ocaffe@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 00:36:11 2020 -0400
+
+    Fixed Segmentation Fault
+
+commit 6e291eb7d8afd2d85325b7278e132c6c20b6e425
+Author: Oliver CAFFERTY <ocaffe@teaching.CS.McGill.CA>
+Date:   Mon Apr 13 20:07:17 2020 -0400
+
+    Almost done. Debugging + displayPolynomail is all thats left.
+
+commit cab0cbd4066cf468a733edf86f7962b2f48bcddd
+Author: Oliver CAFFERTY <ocaffe@teaching.CS.McGill.CA>
+Date:   Mon Apr 13 14:10:16 2020 -0400
+
+    3/4 ish of the way
+
+commit 4c02e70dcc7436d9df5fe65933adfcc17b4717fb
+Author: Oliver CAFFERTY <ocaffe@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 22:41:26 2020 -0400
+
+    Main progress and Poly.c almost complete-ish
+
+commit 7c25e062dfef335a8695275ef8dbade421e2b51f
+Author: Oliver CAFFERTY <ocaffe@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 20:11:18 2020 -0400
+
+    polyapp work and started displayPoly in poly
+
+commit 416f7fbbf2471e9bf67d248675deefd22e273000
+Author: Oliver CAFFERTY <ocaffe@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 18:11:15 2020 -0400
+
+    First Steps
